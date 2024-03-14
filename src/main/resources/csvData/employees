@@ -1,0 +1,4 @@
+Employee ID,Name,Date of Birth,Email,Phone Number,Slack URL
+4,Alice Brown,1992-08-10,SDE-3,alice.brown@example.com,1112223333,https://slack.com/alicebrown
+5,Charlie Green,1995-03-25,SDE-2,charlie.green@example.com,9998887777,https://slack.com/charliegreen
+6,Eva White,1998-11-30,SDE,eva.white@example.com,4445556666,https://slack.com/evawhite
